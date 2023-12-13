@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Informations de l'entreprise
 
-Une fois que vous avez **[défini votre mot de passe](./inscription.md#confirmation)**, vous serez invité(e) à
+Une fois que vous avez **[défini votre mot de passe](../inscription#confirmation)**, vous serez invité(e) à
 configurer votre espace avant d'accéder au tableau de bord.
 
 Pour cela, vous devez fournir quelques informations sur vous et votre entreprise :

@@ -210,8 +210,8 @@ Une fois que vous avez fini votre modification, cliquez sur le bouton `ENREGISTR
 En plus de la modification, vous pouvez effectuer d'autres actions :
 - afficher la facture (si la dépense dispose d'un `Document attaché` comme facture fournisseur scannée),
 - consulter la **[fiche du projet](./activités/projets/fiche-projet)** (si liée),
-- consulter les **[bons de réception](../../stocks/bons-reception)** créés (pour les dépenses concernées)
-- consulter les **[bons de renvoi](../../stocks/bons-renvoi)** émis (pour les dépenses concernées)
+- consulter les **[bons de réception](./stocks/bons-reception)** créés (pour les dépenses concernées)
+- consulter les **[bons de renvoi](./stocks/bons-renvoi)** émis (pour les dépenses concernées)
 - supprimer la dépense
 
 Vous pouvez retrouvez ces options dans les boutons d'action à l'extrémité de chaque ligne du tableau.

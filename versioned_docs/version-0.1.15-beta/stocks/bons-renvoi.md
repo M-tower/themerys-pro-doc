@@ -107,7 +107,7 @@ Une fois que vous avez fini votre modification, cliquez sur le bouton `ENREGISTR
 ## Autres actions
 Sur la page des bons, vous avez la possibilité d'effectuer un certain nombre d'actions, comme par exemple : 
 - afficher le bon (cela peut se faire également en cliquant sur la ligne (4) du bon souhaité),
-- consulter la **[dépense](./depenses)** à l'origine,
+- consulter la **[dépense](../depenses)** à l'origine,
 - supprimer le bon de renvoi
 
 Vous pouvez retrouvez ces options dans les boutons d'action (2) à l'extrémité de chaque ligne du tableau.

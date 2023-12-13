@@ -135,7 +135,7 @@ Dans les colonnes de départ et d'arrivée, des mentions en surbrillance vous pe
 Dans **THEMERYS Pro** dès que vous crée une facture qui contient des lignes d'**[articles](../articles-prestations)** à livrer, cela crée automatiquement 
 des mouvement de type `livraison` en attente pour le client. Pareil pour vos dépenses enregistrées de type `Commande de marchandise` qui, elles, créent des mouvement de type `réception` en attente.
 
-Une fois que les **[bons de sortie](./bons-sortie)** ou les **[bons de livraison](./bons-livraison)** ont été créés, ces mouvements en attente passent de l'état `En attente` à `Traitée`.
+Une fois que les **[bons de sortie](./bons-sortie)** ou les bons de livraison ont été créés, ces mouvements en attente passent de l'état `En attente` à `Traitée`.
 
 :::warning
 
@@ -148,7 +148,7 @@ Le tout est soigneusement répertorié dans le tableau (1) présent dans cet ong
 ### Actions possibles
 Dans ce tableau, il vous sera possible d'effectuer certaines actions (2) :
 - Consulter la **[Facture]** et la **[Dépense]** à l'origine
-- Consulter la liste des bons de **[Livraison](./bons-livraison)** ou de **[reception](./bons-reception)** correspondants
+- Consulter la liste des bons de **[Livraison](./bons-sortie)** ou de **[reception](./bons-reception)** correspondants
 
 ![img alt](/img/fil-attente.png)
 

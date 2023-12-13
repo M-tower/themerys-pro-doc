@@ -13,15 +13,16 @@ const config = {
   favicon: 'https://themeryspro.com/wp-content/uploads/2022/11/cropped-logo_themerys_pro_icone-192x192.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://m-tower.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/themerys-pro-doc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'M-tower', // Usually your GitHub org/user name.
   projectName: 'themerys-pro-doc', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
