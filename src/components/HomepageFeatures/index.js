@@ -4,32 +4,33 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Facile à utiliser',
+    Svg: require('@site/static/img/utilisation-facile.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        THEMERYS Pro a été pensé pour que vous puissiez l'utiliser sans aucune formation préalable.
+        En plus de cette documentation bien fournie, vous trouverez de l'aide sous
+        diverses formes un peu partout dans l'interface.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Restez focus',
+    Svg: require('@site/static/img/focus.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Avec sa gestion efficace de la facturation, des dépenses, des stocks et des relations externes, THEMERYS pro
+        vous assure la recherche et la manipulation de vos données avec aisance à tout moments et sur tous les supports connectés.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Vos documents à votre image',
+    Svg: require('@site/static/img/a-votre-image.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        THEMERYS Pro dispose d'un module de personnalisation simple et intuitif pour les documments générés (factures, devis, et bons).
+        En plus vous pouvez personnaliser le séquençage des numéros.
       </>
     ),
   },

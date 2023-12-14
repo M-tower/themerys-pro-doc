@@ -45,14 +45,12 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/M-tower/themerys-pro-doc',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          blogSidebarTitle: 'Tous les articles',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -85,7 +83,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/M-tower/themerys-pro-doc',
             label: 'GitHub',
             position: 'right',
           },
@@ -98,30 +96,30 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Tutoriel',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Communauté',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Facebook',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
+                label: 'Instagram',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'Twitter',
+                label: 'Linkedin',
                 href: 'https://twitter.com/docusaurus',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Liens Utiles',
             items: [
               {
                 label: 'Blog',
@@ -129,7 +127,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/M-tower/themerys-pro-doc',
               },
             ],
           },

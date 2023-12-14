@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Tutoriel THEMERYS Pro - 5min ⏱️
           </Link>
         </div>
       </div>
@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Bienvenue sur la ${siteConfig.title}`}
+      description="Un logiciel de gestion ERP facile et intuitif pour les TPE, PME et PMI">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
