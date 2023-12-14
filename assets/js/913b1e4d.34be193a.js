@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkthemerys_pro_doc=self.webpackChunkthemerys_pro_doc||[]).push([[5258],{34145:e=>{e.exports=JSON.parse('{"permalink":"/themerys-pro-doc/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

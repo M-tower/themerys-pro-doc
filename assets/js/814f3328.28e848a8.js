@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthemerys_pro_doc=self.webpackChunkthemerys_pro_doc||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"Tous les articles","items":[{"title":"Bienvenue \xe0 bord de notre ERP THEMERYS Pro, simplifiez la Gestion pour Votre Entreprise","permalink":"/themerys-pro-doc/blog/bienvenue-erp-themrys-pro","unlisted":false}]}')}}]);

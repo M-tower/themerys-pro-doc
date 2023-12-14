@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthemerys_pro_doc=self.webpackChunkthemerys_pro_doc||[]).push([[7085],{44271:e=>{e.exports=JSON.parse('[{"label":"themerys-pro","permalink":"/themerys-pro-doc/blog/tags/themerys-pro","count":1},{"label":"hello","permalink":"/themerys-pro-doc/blog/tags/hello","count":1}]')}}]);

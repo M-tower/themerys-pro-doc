@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkthemerys_pro_doc=self.webpackChunkthemerys_pro_doc||[]).push([[6092],{56940:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/themerys-pro-doc/blog/tags/facebook","allTagsPath":"/themerys-pro-doc/blog/tags","count":1,"unlisted":false}')}}]);
