@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthemerys_pro_doc=self.webpackChunkthemerys_pro_doc||[]).push([[9620],{23143:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/themerys-pro-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
