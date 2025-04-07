@@ -129,6 +129,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/M-tower/themerys-pro-doc',
               },
+              {
+                label: 'Site web officiel',
+                href: 'https://themeryspro.com',
+              },
             ],
           },
         ],
