@@ -3,25 +3,83 @@
 <!-- ![img alt](/img/illus-update.png) -->
 <img src="../../img/illus-update.png" alt="Historique des versions" width="400" style={{ borderRadius: '12px'}} />
 
-## Version 0.1.63-beta
+## Version 0.1.64-beta
 
-- **Enregistrement des articles mis à jour** 
-    
-    - Désactiver la gestion de stocks pour l’article
-    
+- **Amélioration de la gestion des stocks**
+
+    Rendez-vous dans le menu principal, puis dans « Paramètres > AUTRES ».
+
+    - Activez le **déstockage automatique** lorsque vous créez vos factures.
+    — Génération automatique des bons de sortie.
+
+    ![image.png](/img/destockage-auto.png)
+
+    - Activez la **réception automatique des marchandises commandées** chez vos fournisseurs lorsque vous enregistrez vos dépenses.
+    — Génération automatique des bons de réception.
+
+    ![image.png](/img/reception-auto.png)
+
+- **Attribuez des rôles à vos entrepôts**
+
+    - Si vous avez plusieurs entrepôts (magasins), précisez à THEMERYS lesquels sont destinés à la livraison des clients et/ou à la réception des marchandises commandées chez vos fournisseurs.
+
+    Rendez-vous dans le menu principal, puis dans « Stocks > Entrepôts ». Cliquez sur l'entrepôt concerné dans la liste ou créez-en un nouveau.
+
+    ![image.png](/img/roles-entrepot.png)
+
+    Des icônes apparaissent pour indiquer le rôle de chaque entrepôt.
+
+    ![image.png](/img/roles-entrepot-icons.png)
+
+- **Purgez la file d'attente et reprenez une gestion saine**
+
+    Vous n'avez pas eu le temps de générer manuellement les bons de sortie et de réception pendant un certain temps, ce qui a considérablement rempli votre file d'attente dans la rubrique « Inventaire » ? Pas de problème !
+
+    Vous pouvez désormais purger toute la file d'attente grâce à cette nouvelle fonctionnalité, sans que cela n'impacte vos stocks. Vous pourrez ensuite créer des ajustements pour mettre à jour vos stocks et reprendre le suivi.
+
+    Rendez-vous dans le menu principal, puis dans « Inventaires > FILE D'ATTENTE ». Cliquez sur le bouton d'options situé en haut à droite du tableau.
+
+    ![image.png](/img/purge-attentes.png)
+
+- **Enregistrement des articles mis à jour**
+
+    - Désactivez la gestion des stocks pour l'article.
+
     ![image.png](/img/disable-gestion-stock.png)
 
-    - Rajouter la photo de l’article
-    — pour le moment cette fonction est surtout utile pour les ventes POS
+    - Ajoutez la photo de l'article.
+    — Pour le moment, cette fonction est surtout utile pour les ventes POS.
 
     ![image.png](/img/photo-article.png)
 
-- **La fonction de suppression des facture a été retirée** 
-    
-    - Annuler les factures au lieu de les supprimer !
-    — sous condition d’un accès administrateur
-    
+    - Modifiez les débouchés des articles.
+    — Tant qu'ils n'ont pas encore enregistré de vente.
+
+    ![image.png](/img/debouches-article.png)
+
+- **La création des devis, factures, dépenses et bons a été améliorée**
+
+    - Ajoutez jusqu'à 10 lignes d'articles et/ou de prestations en un click.
+
+    ![image.png](/img/ajouter-multi-lignes.png)
+
+- **La fonction de suppression des factures a été retirée**
+
+    - Annulez les factures au lieu de les supprimer !
+    — Sous réserve d'un accès administrateur.
+
     ![image.png](/img/annuler-facture.png)
+
+- **L'enregistrement des dépenses a été amélioré**
+
+    - Dupliquez une dépense.
+
+    ![image.png](/img/duplique-depense.png)
+
+    - Utilisez des motifs ou des descriptions prédéfinis.
+    — Cliquez pour remplir automatiquement.
+
+    ![image.png](/img/motifs-predefinis.png)
 
 ## Version 0.1.62-beta
 
