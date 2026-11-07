@@ -3,6 +3,20 @@
 <!-- ![img alt](/img/illus-update.png) -->
 <img src="../../img/illus-update.png" alt="Historique des versions" width="400" style={{ borderRadius: '12px'}} />
 
+## Version 0.1.688-beta
+
+- **Nouveaux modèles de facture** `BÊTA`
+
+    Donnez à vos factures un style qui vous ressemble. Quatre modèles sont désormais disponibles : **Mark 1**, **Mark 2**, **Mark 3** et **Mark 4**.
+
+    Rendez-vous dans le menu principal, puis dans « Paramètres > FACTURATION ». Ouvrez la section « Modèle » et cliquez sur celui qui vous plaît. L'aperçu à droite se met à jour tout de suite.
+
+    ![image.png](/img/modeles-facture.jpg)
+
+    :::note
+    Cette fonctionnalité est en **bêta**. Elle peut encore évoluer. Si vous remarquez un souci, contactez notre support.
+    :::
+
 ## Version 0.1.64-beta
 
 - **Amélioration de la gestion des stocks**
