@@ -3,6 +3,63 @@
 <!-- ![img alt](/img/illus-update.png) -->
 <img src="../../img/illus-update.png" alt="Historique des versions" width="400" style={{ borderRadius: '12px'}} />
 
+## Version 0.2.4-beta
+
+- **Sélection multiple et actions groupées**
+
+    Fini les traitements ligne par ligne : cochez plusieurs lignes d'un tableau et appliquez-leur la même action en une seule fois.
+
+    - Survolez une ligne : une case apparaît à gauche. Cliquez dessus pour passer en mode sélection, puis cochez les autres lignes.
+    — Vous pouvez aussi passer par le bouton d'options en haut à droite du tableau, puis « Actions groupées ».
+
+    ![Sélection multiple et actions groupées](/img/selection-multiple.png)
+
+    - Choisissez l'action dans la barre qui s'affiche : exporter, supprimer, annuler, activer ou désactiver… selon le tableau.
+    — Pour les articles, changez aussi la catégorie, la gestion de stock, ou retirez-les des stocks.
+
+    - Suivez le traitement grâce à la barre de progression. À la fin, un bilan indique ce qui a été traité et ce qui a été refusé, avec la raison.
+    — Les lignes refusées restent cochées.
+
+    - Disponible sur les tableaux : articles, prestations, catégories, factures, paiements, dépenses, bons (sortie, réception, retour, transfert, ajustement), mouvements libres, banques, caisses, entrepôts et emplacements, clients, prospects, fournisseurs, consultants, sous-traitants, points de vente, vendeurs, tables et codes de validation.
+    — Les suppressions et les annulations restent réservées aux administrateurs et aux responsables.
+
+- **Glisser-déposer des lignes**
+
+    Réorganisez vos lignes à la souris ou au doigt, sans passer par le menu.
+
+    - Pendant l'édition des factures, proforma, dépenses et bons, attrapez une ligne et déposez-la où vous voulez. Les autres lignes s'écartent pour lui faire de la place.
+    — Prenez la ligne par sa poignée (la colonne du menu ⋮) ou, à la souris, par une zone vide de la ligne.
+
+    ![Glisser-déposer des lignes](/img/glisser-deposer.png)
+
+    - Les valeurs déjà saisies sont conservées pendant le déplacement.
+    — Un article en location reste attaché à son panneau de durée : ils bougent ensemble.
+
+    - Fonctionne aussi pour la composition des articles, les mouvements libres et les tableaux des paramètres.
+
+    - Changé d'avis ? Appuyez sur Échap pour annuler le déplacement.
+    — Les options « Déplacer en haut / en bas » du menu ⋮ restent disponibles.
+
+- **Réinitialisation de l'espace Themerys, par module** `BÊTA`
+
+    Plus besoin de tout effacer pour repartir sur de bonnes bases : choisissez précisément les données à supprimer.
+
+    Rendez-vous dans le menu principal, puis dans « Paramètres > AUTRES ». Dans la section « Réinitialisation de votre espace », cliquez sur le bouton d'action.
+
+    - Cochez les modules à purger : Facturation, Ventes POS, Stocks, Trésorerie, Projets, Contacts, Catalogue, Équipe et structure.
+    — Les modules liés sont inclus automatiquement, pour ne laisser aucune donnée orpheline.
+
+    ![Réinitialisation de l'espace par module](/img/purge-modules.png)
+
+    - Pour confirmer, tapez **SUPPRIMER** puis cliquez sur « Purger la sélection ».
+    — Tout cocher revient à une réinitialisation complète de l'espace, paramètres compris.
+
+    - Un récapitulatif vous est envoyé par e-mail.
+
+    :::warning
+    Cette action est **irréversible** et réservée aux administrateurs. Les quotas déjà consommés de votre formule ne sont pas recrédités. La suppression par module est en **bêta** : en cas de souci, contactez notre support.
+    :::
+
 ## Version 0.1.688-beta
 
 - **Nouveaux modèles de facture** `BÊTA`
